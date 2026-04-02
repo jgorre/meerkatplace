@@ -1,12 +1,18 @@
 {
   "name": "meerkatplace",
-  "description": "Personal Claude Code plugin marketplace for jordan.gorrell",
+  "owner": {
+    "name": "jordan.gorrell"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugin marketplace",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "worklog",
-      "path": "worklog",
+      "source": "./worklog",
       "description": "Log what you accomplished in a Claude Code session to ~/worklog/worklog.md",
-      "version": "1.0.0"
+      "category": "productivity"
     }
   ]
 }

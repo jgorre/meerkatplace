@@ -1,6 +1,8 @@
 {
   "name": "worklog",
-  "version": "1.0.0",
   "description": "Log what you accomplished in a Claude Code session to ~/worklog/worklog.md",
-  "author": "jordan.gorrell"
+  "version": "1.0.0",
+  "author": {
+    "name": "jordan.gorrell"
+  }
 }

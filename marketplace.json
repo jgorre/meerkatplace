@@ -1,0 +1,12 @@
+{
+  "name": "meerkatplace",
+  "description": "Personal Claude Code plugin marketplace for jordan.gorrell",
+  "plugins": [
+    {
+      "name": "worklog",
+      "path": "worklog",
+      "description": "Log what you accomplished in a Claude Code session to ~/worklog/worklog.md",
+      "version": "1.0.0"
+    }
+  ]
+}
